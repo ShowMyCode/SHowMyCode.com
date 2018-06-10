@@ -1,5 +1,6 @@
 # ShowMyCode.com
 ## The project is being rebuilt.
-### We're looking for Front-end Developer (Angular, etc), Backend Developer (Go, etc), and DevOps (Ansible, etc) to join our team. 
+### We need your help!
+#### If you're Front-End Developer (Angular, etc), Back-End Developer (Go, etc) or DevOps (Ansible, etc) - please contact us! 
 
 Please contact us [here on Telegram](https://t.me/liudvikas).
